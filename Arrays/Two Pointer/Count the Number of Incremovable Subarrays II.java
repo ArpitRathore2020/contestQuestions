@@ -1,3 +1,4 @@
+
 class Solution {
     public long incremovableSubarrayCount(int[] nums) {
         int n = nums.length;
